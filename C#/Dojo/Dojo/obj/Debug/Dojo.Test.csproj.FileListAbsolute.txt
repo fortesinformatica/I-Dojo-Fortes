@@ -1,0 +1,9 @@
+D:\dojo\Dojo\Dojo\bin\Debug\Dojo.dll
+D:\dojo\Dojo\Dojo\bin\Debug\Dojo.pdb
+D:\dojo\Dojo\Dojo\bin\Debug\DojoCore.dll
+D:\dojo\Dojo\Dojo\bin\Debug\nunit.core.dll
+D:\dojo\Dojo\Dojo\bin\Debug\nunit.framework.dll
+D:\dojo\Dojo\Dojo\bin\Debug\DojoCore.pdb
+D:\dojo\Dojo\Dojo\obj\Debug\ResolveAssemblyReference.cache
+D:\dojo\Dojo\Dojo\obj\Debug\Dojo.dll
+D:\dojo\Dojo\Dojo\obj\Debug\Dojo.pdb

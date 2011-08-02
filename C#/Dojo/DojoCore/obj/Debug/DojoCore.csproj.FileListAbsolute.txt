@@ -1,0 +1,5 @@
+D:\dojo\Dojo\DojoCore\bin\Debug\DojoCore.dll
+D:\dojo\Dojo\DojoCore\bin\Debug\DojoCore.pdb
+D:\dojo\Dojo\DojoCore\obj\Debug\ResolveAssemblyReference.cache
+D:\dojo\Dojo\DojoCore\obj\Debug\DojoCore.dll
+D:\dojo\Dojo\DojoCore\obj\Debug\DojoCore.pdb
